@@ -1,0 +1,45 @@
+.centered {
+	width:930px;
+	margin: 0 auto;
+}
+.pull-right {
+	float:right;
+}
+.perspectiveWrapper {
+	
+	
+}
+.perspectiveBg {
+	background:#000;
+	opacity:0.1;
+	/*-webkit-filter: blur(35px);
+	-moz-filter: blur(15px);
+	-o-filter: blur(15px);
+	-ms-filter: blur(15px);
+	filter: blur(35px);
+	
+	transform:scale(0.9);*/
+}
+.block {
+	width:200px;
+	line-height:200px;
+	height:200px;
+	text-align:center;
+	border:1px solid #eaeaea;
+	background:#f1f1f1;
+	
+	transform:scale(1.0);
+
+}
+.block.imgbg {
+	background-image: url('http://www.rgbstock.com/cache1wQHzq/users/b/be/bertvthul/300/oFQ2IF6.jpg');
+}
+.block.imgbg2 {
+	background-image: url('http://www.rgbstock.com/cache1pVgI8/users/b/be/bertvthul/300/mS7HwUC.jpg');
+}
+.block.imgbg3 {
+	background-image: url('http://www.rgbstock.com/cache1qjM5l/users/b/be/bertvthul/300/mYuXxTC.jpg');
+}
+.block.imgbg4 {
+	background-image: url('http://a.rgbimg.com/cache1qlygS/users/b/be/bertvthul/300/mYXCL6I.jpg');
+}
